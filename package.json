@@ -7,6 +7,9 @@
     "start": "node server.js",
     "server": "nodemon server.js"
   },
+  "engines": {
+    "node": ">=14 <19"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MeGallin/f1-three-api.git"
